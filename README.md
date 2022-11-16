@@ -16,6 +16,7 @@
 **本仓库主要由以下人员共同维护，感谢大家的支持！**
 
 2023: [@yfyeung](https://github.com/yfyeung)
+
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
 # 计算机保研交流群
