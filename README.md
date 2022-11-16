@@ -1,7 +1,7 @@
 # CSLabInfo2022
-关于2022年**CS保研实验室/导师招生广告**的汇总。欢迎想要打广告的小伙伴积极PR，资瓷一下互联网精神吼不吼啊？预祝大家都能找到自己心仪的导师！
+关于2023年**CS保研实验室/导师招生广告**的汇总。欢迎想要打广告的小伙伴积极PR，资瓷一下互联网精神吼不吼啊？预祝大家都能找到自己心仪的导师！
 
-另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/Alpha-Yang/CS-BAOYAN-2022)。
+另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
 # 免责声明
 
@@ -9,13 +9,14 @@
 
 # 提交规则
 
-每一则招生广告请单独创建一个markdown文档放置于招生信息文件夹内。仓库的维护与建设坚持“谁推荐，谁答疑，谁负责”的原则因此请各位同学在提起Pull Request的同时附上自己有效的联系方式，谢谢配合。
+每一则招生广告请单独创建一个 Markdown 文档放置于招生信息文件夹内。仓库的维护与建设坚持“谁推荐，谁答疑，谁负责”的原则因此请各位同学在提起 Pull Request 的同时附上自己有效的联系方式，谢谢配合。
 
 # 致谢
 
 **本仓库主要由以下人员共同维护，感谢大家的支持！**
 
-[@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
+2023: [@yfyeung](https://github.com/yfyeung)
+2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
 # 计算机保研交流群
 
